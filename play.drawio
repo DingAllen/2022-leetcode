@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T07:03:24.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sHvsEn3tTtWCcsX08JEy" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T07:13:37.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Su7T-3Cpyw7vb-i5SGVH" version="21.1.2" type="github">
   <diagram name="Page-1" id="fc8asxsnwFO9gbp3OEaq">
     <mxGraphModel dx="1461" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,6 +81,33 @@
             <mxPoint x="630" y="331" as="sourcePoint" />
             <mxPoint x="690" y="329.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bD2No1MqjXNVd_zByzU4-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="467" as="sourcePoint" />
+            <mxPoint x="200" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD2No1MqjXNVd_zByzU4-40" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="467" as="sourcePoint" />
+            <mxPoint x="650" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD2No1MqjXNVd_zByzU4-41" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="170" as="sourcePoint" />
+            <mxPoint x="650" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD2No1MqjXNVd_zByzU4-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="470" as="sourcePoint" />
+            <mxPoint x="650" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD2No1MqjXNVd_zByzU4-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Hyperledger Fabric&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="188" width="160" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
