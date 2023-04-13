@@ -1,9 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T06:46:20.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.5" etag="DVv4pDbfNWSQ1S1-hSpP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T06:57:02.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MEaVYlNEFU4Xl2bbEtIV" version="21.1.5" type="github">
   <diagram name="Page-1" id="-nM3ZxJoDgE-OkoB2WOJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1719" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YWMaIFLAGPUImmL-qIII-105" value="移动端模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="117" y="204" width="332" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-106" value="设定信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="239" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-107" value="移动端应用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="142" y="406" width="96" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-108" value="智能杯垫状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="322" width="112" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-109" value="历史记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="406" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-110" value="分析建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="490" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-111" value="智能杯垫模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="288" y="20" width="575" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-112" value="智能杯垫" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="499" y="75" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-113" value="物理按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="55" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-114" value="水温检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="75" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-115" value="喝水提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="759" y="97" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-116" value="用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="246" width="47" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6088495113876681;exitY=1.0024510832393871;entryX=0;entryY=0.49509817011216106;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-116" target="YWMaIFLAGPUImmL-qIII-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="92" y="423" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5907474157424061;exitY=0.012254967409021714;entryX=-0.004166746139526367;entryY=0.4950980579151827;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-116" target="YWMaIFLAGPUImmL-qIII-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="92" y="72" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-119" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9916666507720947;exitY=0.4950980579151827;entryX=0.004166603088378906;entryY=0.13252847325010422;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-113" target="YWMaIFLAGPUImmL-qIII-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="474" y="72" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-120" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0083333015441895;exitY=0.4950980579151827;entryX=-0.004219441474238529;entryY=0.4950980579151827;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-112" target="YWMaIFLAGPUImmL-qIII-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-121" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9957805585257614;exitY=0.4950980579151827;entryX=-0.004219441474238529;entryY=0.09693725044956715;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-114" target="YWMaIFLAGPUImmL-qIII-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="734" y="92" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-122" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5745853263434935;exitY=1.1219697840073529e-7;entryX=-0.004166746139526367;entryY=0.485294173745548;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-107" target="YWMaIFLAGPUImmL-qIII-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9916666507720947;exitY=0.485294173745548;entryX=0.004166603088378906;entryY=0.4950980579151827;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-106" target="YWMaIFLAGPUImmL-qIII-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="256" />
+              <mxPoint x="474" y="92" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-124" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6509067770435749;exitY=1.1219697840073529e-7;entryX=-0.002976213182721819;entryY=0.5049020542817957;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-107" target="YWMaIFLAGPUImmL-qIII-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9965277512868246;exitY=0.49509817011216106;entryX=-4.8287307159810126e-8;entryY=0.49509817011216106;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-107" target="YWMaIFLAGPUImmL-qIII-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-126" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9999999517126928;exitY=0.49509817011216106;entryX=0.004166603088378906;entryY=0.8576676425802612;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-109" target="YWMaIFLAGPUImmL-qIII-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="423" />
+              <mxPoint x="474" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.592515704165956;exitY=0.9901962280273438;entryX=0.09254325192380063;entryY=0.9852941737455481;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-107" target="YWMaIFLAGPUImmL-qIII-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="558" />
+              <mxPoint x="449" y="558" />
+              <mxPoint x="474" y="148" />
+              <mxPoint x="734" y="148" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YWMaIFLAGPUImmL-qIII-128" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6509067770435749;exitY=0.9901962280273438;entryX=-0.004166746139526367;entryY=0.48529428594252644;rounded=0;" edge="1" parent="1" source="YWMaIFLAGPUImmL-qIII-107" target="YWMaIFLAGPUImmL-qIII-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="507" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
